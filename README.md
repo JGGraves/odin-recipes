@@ -1,1 +1,1 @@
-# odin-recipes
+I am creating a basic recipe website to demonstrate HTML and command line knowledge as part of The Odin Project's foundation course.
