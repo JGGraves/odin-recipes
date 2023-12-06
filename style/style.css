@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    background-color: #d5acae;
+    color: #004c4f;
+    font-family: Palatino, serif;
+    font-size: 18px;
+}
+
+.heading {
+    font-size: 40px;
+}
+
+img {
+    border-style: solid;
+    border-color: #004c4f;
+    border-width: 10px;
+}
+
+
+a, {
+    text-decoration: none;
+}
+a:visited {
+    color: #004c4f;
+}
+a:hover {
+    color: #4b9699;
+}
+
+/*Recipes*/
+
+.contents {
+    text-align: left;
+}
+
+
+/*INDEX*/
+
+.recipe {
+    list-style-type: none;
+}
+
+
