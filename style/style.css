@@ -1,38 +1,58 @@
 body {
     text-align: center;
-    background-color: #d5acae;
-    color: #004c4f;
+    background-color: #A6C9A2 ;
+    color: #29485A;
     font-family: Palatino, serif;
     font-size: 18px;
 }
 
 .heading {
     font-size: 40px;
+    margin-bottom: 15px;
+    padding-top: 10px;
 }
 
 img {
     border-style: solid;
-    border-color: #004c4f;
+    border-color: #29485A;
     border-width: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.index-img {
+    width: 400px;
 }
 
 
-a, {
+
+
+a:link {
     text-decoration: none;
 }
 a:visited {
-    color: #004c4f;
+    color: #29485A;
+    text-decoration: none;
 }
 a:hover {
-    color: #4b9699;
+    color: #292F5A;
+    text-decoration: none;
+}
+a:active {
+    text-decoration: none;
 }
 
 /*Recipes*/
 
 .contents {
     text-align: left;
+    padding-left: 25px;
+    margin-left: 15px;
 }
 
+.heads {
+    padding-left: 45px;
+}
 
 /*INDEX*/
 
