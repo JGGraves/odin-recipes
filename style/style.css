@@ -24,8 +24,19 @@ img {
     width: 400px;
 }
 
-
-
+.button {
+    border-style: solid;
+    padding: 10px;
+    color:#29485A;
+    border-radius: 10px;
+    background-color: #B4DCA2;
+    font-size: 1.5em;
+}
+.flex {
+display: flex;
+flex: 1;
+justify-content: space-evenly;
+}
 
 a:link {
     text-decoration: none;
